@@ -1,0 +1,11 @@
+Model Information:
+* title:	Omori Plush
+* source:	https://sketchfab.com/3d-models/omori-plush-d69ff8a7158f4340b99f0f52a72d0349
+* author:	PBRerri (https://sketchfab.com/PBRerri)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Omori Plush" (https://sketchfab.com/3d-models/omori-plush-d69ff8a7158f4340b99f0f52a72d0349) by PBRerri (https://sketchfab.com/PBRerri) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
